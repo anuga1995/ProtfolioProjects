@@ -1,3 +1,6 @@
+                                                       SQL Project: Analysis of COVID-19 Data
+The link to the dataset: https://ourworldindata.org/covid-deaths
+
 This project is focused on analyzing COVID-19 data from the Our World in Data project, specifically the "covid-deaths" dataset. The dataset is a daily updated dataset, and it includes information about COVID-19 cases and deaths, as well as population data for different countries and regions.
 
 The SQL queries in this project analyze the dataset in various ways, including:
@@ -20,4 +23,4 @@ To run the SQL queries in this project, the user needs to have access to the "co
 
 The SQL queries can be copied and pasted into a SQL editor, such as MySQL Workbench or pgAdmin, and executed to obtain the desired results.
 
-Note: The queries in this project were written based on the dataset available as of 2021, and the results may vary depending on the current state of the dataset
+Note: The queries in this project were written based on the dataset available as of 2021, and the results may vary depending on the current state of the datase.By analyzing the COVID-19 data using SQL, we can gain valuable insights into the spread of the virus and the effectiveness of vaccination efforts. With the queries provided in this project, you can further explore the data and draw your own conclusions.
